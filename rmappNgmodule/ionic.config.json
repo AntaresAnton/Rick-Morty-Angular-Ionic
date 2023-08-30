@@ -1,0 +1,7 @@
+{
+  "name": "rmapp1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
