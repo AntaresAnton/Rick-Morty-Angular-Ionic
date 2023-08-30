@@ -1,5 +1,5 @@
 {
-  "name": "rmapp1",
+  "name": "rmortyapp",
   "integrations": {
     "capacitor": {}
   },
