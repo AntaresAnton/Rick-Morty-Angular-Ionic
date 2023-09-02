@@ -18,7 +18,7 @@ export class UserslistPage implements OnInit {
 
   ngOnInit() {
 
-    this.http.get<any>('https://rickandmortyapi.com/api/characters')
+    this.http.get<any>('https://rickandmortyapi.com/api/character')
     .subscribe(res=>{
       console.log(res);
       // caracteres
